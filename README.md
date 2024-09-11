@@ -25,10 +25,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visu
 - Programing
 - Mathematics
 
-   
-  
-</details><br />
-
 #
 
 
