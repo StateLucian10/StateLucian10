@@ -16,8 +16,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visu
 
 #
 
-<details>
- <summary><h3>👨‍💻 Skills : </h3></summary>
+ <h3>👨‍💻 Skills : </h3>
   
 - English
 - Algorithms
