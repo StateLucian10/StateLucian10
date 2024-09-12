@@ -1,6 +1,4 @@
-# ⌛️ StateLucian10 ⚒
-
-**`Student`**
+# ⌛️ StateLucian10 ⚒   **`Student`** 
 
   Hi I'm Lucian! I am a student at U.A.I.C Iași University (2nd year) where I study mathematics and computer science. I am eager to learn new things and I try to develop my skills every day.
   
