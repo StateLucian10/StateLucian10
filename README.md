@@ -18,7 +18,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visu
  <h3>👨‍💻 Skills : </h3>
   
 - English
-- Object Oriented Programing
+- Object Oriented Programming
 - Algorithms
 - Problem Solving
 - Data Structures
